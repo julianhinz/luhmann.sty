@@ -16,7 +16,7 @@
 
 ## Preview
 
-![Example slide](example.png)
+![Example slide](example.svg)
 
 ---
 
