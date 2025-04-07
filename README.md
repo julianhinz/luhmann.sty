@@ -72,6 +72,19 @@ latexmk -pdf example.tex
 - **Blocks**: styled theorem environments and alert macros  
 - **Extras**: QR code for slide link, `\lastslide` placeholder, pictogram shortcuts  
 
+## Citation
+
+If you’d like to cite the style in your presentation or documentation, use:
+
+```bibtex
+@misc{luhmann,
+    title = {luhmann: A LaTeX Beamer theme},
+    author = {Hinz, Julian},
+    year = {2025},
+    note = {\url{https://julianhinz.com/luhmann}},
+}
+```
+
 ---
 
 ## License
