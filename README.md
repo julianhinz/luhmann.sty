@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Build with LaTeX](https://img.shields.io/badge/built%20with-LaTeX-008080.svg)](#)
-[![Overleaf](https://img.shields.io/badge/open-in--overleaf-47A141?logo=overleaf&logoColor=white)](https://www.overleaf.com/docs?snip_uri=https://github.com/julianhinz/luhmann.sty/archive/refs/heads/main.zip)
+[![Overleaf](https://img.shields.io/badge/open-in--overleaf-47A141?logo=overleaf&logoColor=white)](https://www.overleaf.com/docs?snip_uri=http://ifw-kiel.de/KITE/kielinstitute.sty-main.zip)
 
 **luhmann.sty** is a simple and sleek LaTeX Beamer style for academic and professional presentations. It builds on [latex-presentation](https://github.com/pmichaillat/latex-presentation) by Pierre-Olivier Michaillat and adds:
 
